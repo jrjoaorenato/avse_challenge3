@@ -1,0 +1,15 @@
+pytorch
+numpy
+tqdm
+torchsummary
+decord
+librosa
+scipy
+pystoi
+pesq
+soundfile
+torchvision
+torchaudio
+transformers
+diffusers
+timm

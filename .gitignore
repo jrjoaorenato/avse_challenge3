@@ -1,0 +1,16 @@
+*.zip
+#ignore all files in the folders output, output_old, objective_evaluation, objective_evaluation_old, data/ __pycache__, logs
+output/*
+output_old/*
+objective_evaluation/*
+objective_evaluation_old/*
+data/*
+__pycache__/*
+logs/*
+model_utils/__pycache__/*
+checkpoint/*
+model_utils/model_old.py
+model_utils/audio.py
+model_utils/autoencoder.py
+dit_model.py
+model_old.py
